@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, Boston University, 2012
+* Ph.D in Computational Neuroscience, Boston University, 2020
+  * Primary Investigator: Frank Guenther, PhD, Speech Lab
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Fellow, Boston University Speech Lab (09/2012-01/2020)
+* Microsoft Student Partner, Microsoft Corp (08/2011-05/2012)
+* Undergraduate Research Assistant, Boston University Speech Lab (03/2011-09/2012)
+* Student IT Consultant, BU IT Help Center (08/2009-11/2011)
+* Beta-Tester, Eluma Corp (05/2007-09/2007)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, MATLAB, R, SQL
+* Statistics
+* Signal Processing
 
 Publications
 ======
