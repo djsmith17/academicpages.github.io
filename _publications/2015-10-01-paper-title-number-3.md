@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Contributions of Auditory and Somatosensory Feedback to Vocal Motor Control"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2020-06-01
+venue: 'Journal of Speech Language and Hearing Research'
 paperurl: 'https://djsmith17.github.io/files/Smith_JSLHR_2020.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Your Name, You. (2020). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
